@@ -3,3 +3,12 @@
 chapter2/directory_on_my_computer/
 
 chapter3/test-trainer/
+
+chapter5/SQuAD_it-test.json
+chapter5/SQuAD_it-test.json.gz
+chapter5/SQuAD_it-train.json
+chapter5/SQuAD_it-train.json.gz
+chapter5/drugsComTest_raw.tsv
+chapter5/drugsComTrain_raw.tsv
+chapter5/drugsCom_raw.zip
+
