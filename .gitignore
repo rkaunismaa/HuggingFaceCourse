@@ -12,3 +12,8 @@ chapter5/drugsComTest_raw.tsv
 chapter5/drugsComTrain_raw.tsv
 chapter5/drugsCom_raw.zip
 
+chapter6/code-search-net-tokenizer/
+chapter6/tokenizer.json
+chapter6/wikitext-2.txt
+
+
