@@ -16,4 +16,10 @@ chapter6/code-search-net-tokenizer/
 chapter6/tokenizer.json
 chapter6/wikitext-2.txt
 
+chapter7/bert-finetuned-ner/
+chapter7/distilbert-base-uncased-finetuned-imdb/
+chapter7/marian-finetuned-kde4-en-to-fr/
+chapter7/wandb/
+
+
 
