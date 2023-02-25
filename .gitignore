@@ -20,6 +20,9 @@ chapter7/bert-finetuned-ner/
 chapter7/distilbert-base-uncased-finetuned-imdb/
 chapter7/marian-finetuned-kde4-en-to-fr/
 chapter7/wandb/
+chapter7/codeparrot-ds/
+chapter7/mt5-small-finetuned-amazon-en-es/
+
 
 
 
